@@ -1,0 +1,14 @@
+D:\Development\_otus\_HomeWorks\ParallelFileReading\bin\Debug\net8.0\ParallelFileReading.exe
+D:\Development\_otus\_HomeWorks\ParallelFileReading\bin\Debug\net8.0\ParallelFileReading.deps.json
+D:\Development\_otus\_HomeWorks\ParallelFileReading\bin\Debug\net8.0\ParallelFileReading.runtimeconfig.json
+D:\Development\_otus\_HomeWorks\ParallelFileReading\bin\Debug\net8.0\ParallelFileReading.dll
+D:\Development\_otus\_HomeWorks\ParallelFileReading\bin\Debug\net8.0\ParallelFileReading.pdb
+D:\Development\_otus\_HomeWorks\ParallelFileReading\obj\Debug\net8.0\ParallelFileReading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\_otus\_HomeWorks\ParallelFileReading\obj\Debug\net8.0\ParallelFileReading.AssemblyInfoInputs.cache
+D:\Development\_otus\_HomeWorks\ParallelFileReading\obj\Debug\net8.0\ParallelFileReading.AssemblyInfo.cs
+D:\Development\_otus\_HomeWorks\ParallelFileReading\obj\Debug\net8.0\ParallelFileReading.csproj.CoreCompileInputs.cache
+D:\Development\_otus\_HomeWorks\ParallelFileReading\obj\Debug\net8.0\ParallelFileReading.dll
+D:\Development\_otus\_HomeWorks\ParallelFileReading\obj\Debug\net8.0\refint\ParallelFileReading.dll
+D:\Development\_otus\_HomeWorks\ParallelFileReading\obj\Debug\net8.0\ParallelFileReading.pdb
+D:\Development\_otus\_HomeWorks\ParallelFileReading\obj\Debug\net8.0\ParallelFileReading.genruntimeconfig.cache
+D:\Development\_otus\_HomeWorks\ParallelFileReading\obj\Debug\net8.0\ref\ParallelFileReading.dll
