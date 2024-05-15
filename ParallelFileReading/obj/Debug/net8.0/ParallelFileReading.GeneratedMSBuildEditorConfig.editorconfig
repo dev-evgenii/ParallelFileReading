@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ParallelFileReading
-build_property.ProjectDir = D:\Development\_otus\_HomeWorks\ParallelFileReading\
+build_property.ProjectDir = D:\Development\_otus\_HomeWorks\ParallelFileReading\ParallelFileReading\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

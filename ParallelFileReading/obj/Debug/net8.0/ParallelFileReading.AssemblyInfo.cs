@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParallelFileReading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ba2466e1bb91ef8b73514aee0f548aaada5b466")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParallelFileReading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParallelFileReading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

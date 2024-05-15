@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\_otus\\_HomeWorks\\ParallelFileReading\\ParallelFileReading.csproj": {}
+    "D:\\Development\\_otus\\_HomeWorks\\ParallelFileReading\\ParallelFileReading\\ParallelFileReading.csproj": {}
   },
   "projects": {
-    "D:\\Development\\_otus\\_HomeWorks\\ParallelFileReading\\ParallelFileReading.csproj": {
+    "D:\\Development\\_otus\\_HomeWorks\\ParallelFileReading\\ParallelFileReading\\ParallelFileReading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\_otus\\_HomeWorks\\ParallelFileReading\\ParallelFileReading.csproj",
+        "projectUniqueName": "D:\\Development\\_otus\\_HomeWorks\\ParallelFileReading\\ParallelFileReading\\ParallelFileReading.csproj",
         "projectName": "ParallelFileReading",
-        "projectPath": "D:\\Development\\_otus\\_HomeWorks\\ParallelFileReading\\ParallelFileReading.csproj",
-        "packagesPath": "C:\\Users\\AUA\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\_otus\\_HomeWorks\\ParallelFileReading\\obj\\",
+        "projectPath": "D:\\Development\\_otus\\_HomeWorks\\ParallelFileReading\\ParallelFileReading\\ParallelFileReading.csproj",
+        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\_otus\\_HomeWorks\\ParallelFileReading\\ParallelFileReading\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AUA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
